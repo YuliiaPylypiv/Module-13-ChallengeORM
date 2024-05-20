@@ -24,6 +24,7 @@ This e-commerce application is developed using starter code to create a back-end
 For this task I used Express.js API which uses Sequelize to interact with a MySQL database in order to build a back end website.
 
  WALKTHROUGH VIDEO LINK HERE:
+ https://youtu.be/oCpfDWhGfPM
  
 
 It is shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
