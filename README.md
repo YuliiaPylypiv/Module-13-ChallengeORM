@@ -26,5 +26,23 @@ For this task I used Express.js API which uses Sequelize to interact with a MySQ
  WALKTHROUGH VIDEO LINK HERE:
  
 
+It is shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 ![image](https://github.com/YuliiaPylypiv/Module-13-ChallengeORM/assets/155758070/11d238fc-f3a5-4c63-a29d-6b5abe9ad917)
+
+
+It is shows the application's GET routes to return a single category, a single product, and a single tag being tested in Insomnia:
+
+![image](https://github.com/YuliiaPylypiv/Module-13-ChallengeORM/assets/155758070/de7104d0-609e-4fd1-b7a8-23f4ee17d7f3)
+
+It is shows the application's POST, PUT, and DELETE routes for categories being tested in Insomnia:
+
+![image](https://github.com/YuliiaPylypiv/Module-13-ChallengeORM/assets/155758070/b1e8aaf5-53d0-4549-88d8-8d01e0e5b22b)
+
+For installation you should run those commands:
+1)npm i
+2)npm run seed
+3)npm start
+
+ Thank you for yoor attention.
+ Yuliia Pylypiv.
